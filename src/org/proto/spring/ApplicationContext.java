@@ -14,6 +14,9 @@ import java.net.URL;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * @author proto
+ */
 public class ApplicationContext {
 
     private Class configClass;

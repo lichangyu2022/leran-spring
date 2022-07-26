@@ -1,7 +1,7 @@
 package org.proto.spring;
 
 /**
- * @author 周瑜
+ * @author proto
  */
 public class BeanDefinition {
 
